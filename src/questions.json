@@ -1,0 +1,40 @@
+[
+    {
+        "id":1,
+        "question":"What is the capital of Australia?",
+        "options":["Sydney","Melbourne","Canberra","Brisbane"
+        ],
+        "correctOption":"Canberra"
+    },
+    {
+        "id":2,
+        "question":"Who wrote the play Romeo and Juliet?",
+        "options":["Charles Dickens","William Shakespeare","Leo Tolstoy","Jane Austen"
+        ],
+        "correctOption":"William Shakespeare"  
+    },
+    {
+        "id":3,
+        "question":"Which planet is known as the Red Planet?",
+        "options":["Venus","Saturn","Mars","Jupiter"
+        ],
+        "correctOption":"Mars"  
+    },
+    {
+        "id":4,
+        "question":"What is the chemical symbol for gold?",
+        "options":["Go","Au","Ag","Gd"
+        ],
+        "correctOption":"Au"  
+    },
+    {
+        "id":5,
+        "question":"In which year did India gain independence from British rule?",
+        "options":["1942","1945","1947","1950"
+        ],
+        "correctOption":"1947"  
+    }
+    
+    
+
+]
