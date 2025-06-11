@@ -1,12 +1,54 @@
-# React + Vite
+# React Quiz App with Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple quiz application built using React. The app displays multiple-choice questions with a timer for each, calculates the score, and allows quiz restart.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Live Demo](https://quiz-app-sample.vercel.app/)  
 
-## Expanding the ESLint configuration
+## Developed By  
+**Gayathri G**  
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshot
+
+![Quiz App Screenshot](quiz1.png)
+
+![Quiz App Screenshot](quiz2.png)
+
+
+## Features
+
+- Displays one question at a time  
+- Multiple choice options  
+- 10-second timer for each question  
+- Score tracking  
+- Restart quiz functionality  
+- Responsive and clean UI  
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GAYATHRI1006/Digital_Clock_using_React.git
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+
+## Tech Stack
+
+- **React**
+- **JavaScript**
+- **HTML5**
+- **CSS3**          
