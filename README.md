@@ -1,3 +1,6 @@
+# React Quiz App with Timer
+
+A simple quiz application built using React. The app displays multiple-choice questions with a timer for each, calculates the score, and allows quiz restart.
 
 ## Live Demo
 
